@@ -1,4 +1,4 @@
-# pushWoosh
+# App Para Notificações PushWoosh
 
 A new Flutter project.
 
